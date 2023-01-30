@@ -1,0 +1,4 @@
+﻿  Parallelism_I.cpp
+C:\Users\Usuario\Source\Repos\CloudComputing\Parallelism_I\Parallelism_I\Parallelism_I.cpp(22,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Usuario\Source\Repos\CloudComputing\Parallelism_I\Parallelism_I\Parallelism_I.cpp(23,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Parallelism_I.vcxproj -> C:\Users\Usuario\Source\Repos\CloudComputing\Parallelism_I\Debug\Parallelism_I.exe
